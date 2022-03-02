@@ -1,0 +1,6 @@
+altair=4.2.0=pypi_0
+numpy=1.21.5=py39ha4e8547_0
+pandas=1.4.1=py39hd77b12b_0
+python=3.9.7=h6244533_1
+scipy=1.7.3=py39h0a974cb_0
+streamlit=1.5.1=pypi_0
